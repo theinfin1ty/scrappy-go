@@ -1,2 +1,2 @@
-# scrappy-go
-CLI tool written in GoLang to scrap webpages
+# web-scraper-go
+CLI tool written in GoLang to scrape webpages
